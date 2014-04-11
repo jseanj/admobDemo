@@ -1,7 +1,7 @@
 admobDemo
 =========
 
-1. 添加以下8个framework：
+添加以下8个framework：
 
 - AudioToolbox
 - MessageUI
@@ -12,4 +12,5 @@ admobDemo
 - CoreTelephony
 - AdSupport
 
-2. TARGETS–>Build Settings–>Other Linker Flags 添加选项 -ObjC
+
+在TARGETS–>Build Settings–>Other Linker Flags 添加选项 -ObjC
